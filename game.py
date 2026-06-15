@@ -1,7 +1,6 @@
 '''
 Name: Audrey
 Date: Monday, May 12, 2025
-Title: ISU- Ocean Adventure
 '''
 
 #Introduction to the Game
